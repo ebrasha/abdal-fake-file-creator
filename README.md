@@ -6,8 +6,8 @@
 
 ## 👀 Screenshot
 
-![](screenshot.jpg)
-![](https://github.com/ebrasha/abdal-wp-xmlrpc-bruteforce/blob/main/scshot/app-ui.jpg)
+![](scr1.png)
+![](https://github.com/ebrasha/abdal-fake-file-creator/blob/main/scr1.png)
 
 
  ## 💎 General purpose
