@@ -7,7 +7,7 @@
 ## 👀 Screenshot
 
 ![](scr1.png)
-![](https://github.com/ebrasha/abdal-fake-file-creator/blob/main/scr1.png)
+
 
 
  ## 💎 General purpose
